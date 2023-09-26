@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: first
 title: Hello Hacker
 ---
 
