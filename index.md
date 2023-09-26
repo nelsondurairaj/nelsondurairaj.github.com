@@ -1,8 +1,10 @@
 ---
 layout: post
+title: Hello Hacker
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
 
 [Link to another page](./another-page.html).
 
@@ -99,7 +101,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://www.thedesignwork.com/wp-content/uploads/2011/10/Random-Pictures-of-Conceptual-and-Creative-Ideas-02.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
